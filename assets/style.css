@@ -216,3 +216,9 @@ body {
     border: 0 none;
   }
   
+  @media only screen and (max-width: 600px){
+    #logo{
+      background: red;
+      margin-left: 100px;
+    }
+  }
